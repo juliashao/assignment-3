@@ -1,0 +1,39 @@
+/* style3.css */
+html {
+	font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+h1 {
+	font-size: 80px;
+	text-align: center;
+	color:#eacac6;
+
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+p, li {
+	font-size: 20px;
+}
+
+body {
+    margin: 0;
+    padding: 100;
+}
+
+#makizushi {
+	width:50%;
+}
+
+#nigirizushi {
+	width: 60%;
+}
+
+div {
+	display: inline-block;
+	width:45%;
+	text-align: center;
+}
